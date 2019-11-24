@@ -1,19 +1,10 @@
-
-
-#name {
+h1 {
     background-color: cadetblue;
+    width: 200px;
     color: whitesmoke;
     font-weight: bold;
+    text-align: center;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-}
-
-#content {
-    background-color: #ffffff;
-    'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-}
-
-body {
-    background-image: url("./images/so-white.png");
 }
 
 #bio-photo {
@@ -21,7 +12,23 @@ body {
     float: left;
 }
 
-#about-me {
-    color: cadetblue;
-    font-weight: bold;
+#menu {
+    position: relative;
 }
+
+#menu li{
+    color: lightgray;
+    display: inline;
+    list-style-type: upper-roman;
+
+}
+
+li~li { border-left: 1px solid lightgray;
+}
+
+h2 {
+   color: cadetblue;
+   font-weight: bold; 
+}
+
+
