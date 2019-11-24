@@ -1,0 +1,27 @@
+
+
+#name {
+    background-color: cadetblue;
+    color: whitesmoke;
+    font-weight: bold;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+#content {
+    background-color: #ffffff;
+    'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+body {
+    background-image: url("./images/so-white.png");
+}
+
+#bio-photo {
+    padding: 0.5cm;
+    float: left;
+}
+
+#about-me {
+    color: cadetblue;
+    font-weight: bold;
+}
