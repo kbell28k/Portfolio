@@ -1,5 +1,13 @@
-h3 {
-    padding: 0.5cm;
+body {
+    background-image: url(../images/interlaced.png);
+}
+
+.table-test{
+    margin: auto;
+    width: 960px;
+}
+
+h3 {padding: 0.5cm;
     background-color: #4aaaa5;
     float: left;
     color: whitesmoke;
@@ -8,18 +16,50 @@ h3 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
+.test {
+    padding-left: 300px;
+}
+
+.main-block {
+    background-color: #ffffff;
+    width: 960px;
+    margin: auto;
+}
+
+#content {
+    margin-left: 0.75cm;
+    margin-right: 0.75cm;
+}
+
+#bio-photo {
+    padding: 10px;
+    float: left;
+}
+
+p {
+    color:  #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-bottom: 100px;
+    padding-bottom: 25px;
+    line-height: 2;
+}
+
 .ul-mods li{
-    color: gray;
+    color:  #777777;
     display: inline;
     list-style-type: upper-roman;
 }
 
 li~li { 
-    padding-left: .1cm;
-    border-left: 1px solid gray;
+    padding-left: 10px;
+    border-left: 1px solid #777777;
 }
 
 h2 {
+    padding: 2px;
+    padding-top: 25px;
+    margin-left: 0.5cm;
     color: #4aaaa5;
 }
 
@@ -27,6 +67,6 @@ h2 {
     padding: 25px;
     margin-top: auto;
     border-top: 8px solid #4aaaa5;
-    background-color: gray;
+    background-color: #666666;
   }
 
