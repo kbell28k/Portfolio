@@ -1,34 +1,32 @@
-h1 {
-    background-color: cadetblue;
-    width: 200px;
+h3 {
+    padding: 0.5cm;
+    background-color: #4aaaa5;
+    float: left;
     color: whitesmoke;
     font-weight: bold;
     text-align: center;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
-#bio-photo {
-    padding: 0.5cm;
-    float: left;
-}
-
-#menu {
-    position: relative;
-}
-
-#menu li{
-    color: lightgray;
+.ul-mods li{
+    color: gray;
     display: inline;
     list-style-type: upper-roman;
-
 }
 
-li~li { border-left: 1px solid lightgray;
+li~li { 
+    padding-left: .1cm;
+    border-left: 1px solid gray;
 }
 
 h2 {
-   color: cadetblue;
-   font-weight: bold; 
+    color: #4aaaa5;
 }
 
+.footer {
+    padding: 25px;
+    margin-top: auto;
+    border-top: 8px solid #4aaaa5;
+    background-color: gray;
+  }
 
