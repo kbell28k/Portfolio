@@ -71,6 +71,9 @@ h2 {
 }
 
 .footer {
+    color: gray;
+    font-size: 8pt;
+    text-align: center;
     padding: 25px;
     border-top: 8px solid lightgray;
     background-color: black;
