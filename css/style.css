@@ -95,7 +95,7 @@ input[type=text], select, textarea {
   /* Style the submit button with a specific background color etc */
   input[type=submit] {
     background-color: gray;
-    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -110,7 +110,7 @@ input[type=text], select, textarea {
   
   /* Add a background color and some padding around the form */
   .contactcontainer {
-    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     border-radius: 5px;
     background-color: lightgray;
     padding: 20px;
