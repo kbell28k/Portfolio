@@ -8,7 +8,9 @@ body {
 }
 
 h3 {padding: 0.5cm;
-    background-color: #4aaaa5;
+    background-color: gray;
+    border-color: black;
+    border-width: 20px;
     float: left;
     color: whitesmoke;
     font-weight: bold;
@@ -37,7 +39,7 @@ h3 {padding: 0.5cm;
 }
 
 p {
-    color:  #777777;
+    color:  gray;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     margin-bottom: 100px;
@@ -53,20 +55,20 @@ p {
 
 li~li { 
     padding-left: 10px;
-    border-left: 1px solid #777777;
+    border-left: 1px solid lightgray;
 }
 
 h2 {
     padding: 2px;
     padding-top: 25px;
     margin-left: 0.5cm;
-    color: #4aaaa5;
+    color: gray;
 }
 
 .footer {
     padding: 25px;
     margin-top: auto;
-    border-top: 8px solid #4aaaa5;
-    background-color: #666666;
+    border-top: 8px solid lightgray;
+    background-color: black;
   }
 

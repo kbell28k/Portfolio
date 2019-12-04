@@ -6,7 +6,7 @@
 
 > This is a deployed portfolio to showcase personal built applications as a web developer for potential employers and clients.  Find contact information or follow links to projects and repositories in this portoflio by navigating to the portfolio homepage below.
 
-### 🏠 [Portfolio Homepage](https://github.com/kbell28k/Portfolio)
+### 🏠 [Portfolio Homepage](file:///Users/kaylabell/Documents/DU_Bootcamp/Portfolio/index.html)
 
 ## Author
 
