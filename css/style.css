@@ -58,6 +58,11 @@ li~li {
     border-left: 1px solid lightgray;
 }
 
+a {
+    color: gray;
+    text-decoration: none;
+}
+
 h2 {
     padding: 2px;
     padding-top: 25px;
