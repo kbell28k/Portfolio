@@ -1,5 +1,33 @@
+html {
+    min-height: 100%;
+}
+
 body {
+    margin: 0 0 25px;
     background-image: url(../images/interlaced.png);
+}
+
+header {
+    width: 100%;
+    margin-bottom: 10px;
+
+}
+
+h3 {padding: 0.5cm;
+    background-color: white;
+    border: 4px solid lightgray;
+    float: left;
+    color: gray;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+h2 {
+    padding: 2px;
+    padding-top: 25px;
+    margin-left: 0.5cm;
+    color: gray;
 }
 
 .table-test{
@@ -7,19 +35,19 @@ body {
     width: 960px;
 }
 
-h3 {padding: 0.5cm;
-    background-color: gray;
-    border-color: black;
-    border-width: 20px;
-    float: left;
-    color: whitesmoke;
-    font-weight: bold;
-    text-align: center;
-    font-family: 'Georgia', Times, 'Times New Roman', serif;
-}
-
 .test {
     padding-left: 300px;
+}
+
+.ul-mods li{
+    color:  #777777;
+    display: inline;
+    list-style-type: upper-roman;
+}
+
+li~li { 
+    padding-left: 10px;
+    border-left: 1px solid lightgray;
 }
 
 .main-block {
@@ -47,23 +75,19 @@ p {
     line-height: 2;
 }
 
-.ul-mods li{
-    color:  #777777;
-    display: inline;
-    list-style-type: upper-roman;
-}
-
-li~li { 
-    padding-left: 10px;
-    border-left: 1px solid lightgray;
-}
-
 a {
     color: gray;
     text-decoration: none;
 }
 
-h2 {
+.connect {
+    width: 960px;
+    margin-bottom: 200px;
+    border: 4px solid lightgray;
+}
+
+h4 {
+    text-align: center;
     padding: 2px;
     padding-top: 25px;
     margin-left: 0.5cm;
@@ -74,11 +98,12 @@ h2 {
     color: gray;
     font-size: 8pt;
     text-align: center;
-    padding: 25px;
+    height: 40px;
     border-top: 8px solid lightgray;
     background-color: black;
-    margin-top: 20px;
-    position: absolute;
+    overflow: hidden;
+    left: 0;
+    position: fixed; bottom: 0;
     bottom: 0;
     width: 100%;
   }
