@@ -6,7 +6,7 @@
 
 > The following is an example password generator.  Find the link to the random password generator application below.
 
-### 🔑 [Password Generator Application](https://kbell28k.github.io/Portfolio//homework_3/index)
+### 🔑 [Password Generator Application](https://kbell28k.github.io/Portfolio//Homework_3/index)
 
 ## Author
 
