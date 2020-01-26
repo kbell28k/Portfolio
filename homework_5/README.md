@@ -6,7 +6,7 @@
 
 > The following is an example hour by hour day planner.  Find the link to the day planner application below.
 
-### 🕚 [Day Planner](https://kbell28k.github.io/Portfolio/Homework5/index)
+### 🕚 [Day Planner](https://kbell28k.github.io/Portfolio/homework_5/index)
 
 ## Author
 
