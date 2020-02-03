@@ -6,7 +6,7 @@
 
 > The following is a timed code quiz. Tools included: VS Code, HTML, CSS, and Javascript.  Later developments with sound are in process.  Find the link to the code quiz application below.
 
-### 🔑 [Password Generator Application](https://kbell28k.github.io/Portfolio//homework_4/index)
+### 🔑 [Code Quiz Application](https://kbell28k.github.io/Portfolio//homework_4/index)
 
 ## Author
 
