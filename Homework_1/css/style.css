@@ -36,7 +36,7 @@ h2 {
 }
 
 .test {
-    padding-left: 300px;
+    padding-left: 50%;
 }
 
 .ul-mods li{
@@ -46,7 +46,7 @@ h2 {
 }
 
 li~li { 
-    padding-left: 10px;
+    padding-left: 5%;
     border-left: 1px solid lightgray;
 }
 

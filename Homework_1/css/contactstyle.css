@@ -1,0 +1,24 @@
+nav {
+    padding: 50%;
+}
+
+.form {
+    margin: 5%;
+    padding: 5%;
+    background-color: whitesmoke;
+}
+
+.footer {
+    color: gray;
+    font-size: 8pt;
+    text-align: center;
+    border-top: 8px solid lightgray;
+    background-color: white;
+    overflow: hidden;
+    left: 0;
+    position: fixed; bottom: 0;
+    bottom: 0;
+    width: 100%;
+  } 
+
+
