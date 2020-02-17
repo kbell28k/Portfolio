@@ -21,4 +21,20 @@ nav {
     width: 100%;
   } 
 
+  .btn-linkedin {
+    background: darkgray;
+    border-radius: 0;
+    color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: darkgray;
+  }
+  .btn-linkedin:link, .btn-linkedin:visited {
+    color: black;
+  }
+  .btn-linkedin:active, .btn-linkedin:hover {
+    background: darkgray;
+    color: black;
+  }
+
 
