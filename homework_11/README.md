@@ -12,7 +12,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete <b
   <img alt="Version" src="https://img.shields.io/badge/version-0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> The following is an example password generator.  Find the link to the random password generator application below.
+> The following is an example note-taking app.  The current app can be used via localhost:8080.
 
 ### 📝 [Notes Application](https://kbell28k.github.io/Portfolio//homework_11/index)
 
