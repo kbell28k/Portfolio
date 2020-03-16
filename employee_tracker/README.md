@@ -7,7 +7,7 @@
   So that I can organize and plan my business <br>
 </p>
 
-> The following demonstrates an Employee Management System.  It incorporates MySQL NPM package, InquirerJs, and console.table.  To utilizise, please operate from the command line of the app.js file.
+> The following demonstrates an Employee Management System.  It incorporates MySQL NPM package, InquirerJs, and console.table.  To utilize, please operate from the command line of the app.js file.
 
 
 ## Author
