@@ -6,7 +6,7 @@
 
 > This is a deployed portfolio to showcase personal built applications as a web developer for potential employers and clients.  Find contact information or follow links to projects and repositories in this portoflio by navigating to the portfolio homepage below.
 
-### 🏠 [Portfolio Homepage](https://kbell28k.github.io/Portfolio//Homework_1/index)
+### 🏠 [Portfolio Homepage](https://kbell28k.github.io/Portfolio//portfolio/index)
 
 ## Author
 
